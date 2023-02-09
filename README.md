@@ -83,3 +83,10 @@ export default function App({ Component, pageProps }: AppProps) {
 - [ ] task 2
 - [ ] task 3
 - [x] task 4
+
+<!-- Emojis -->
+
+### Emojis
+
+👍
+😄
