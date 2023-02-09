@@ -75,7 +75,7 @@ export default function App({ Component, pageProps }: AppProps) {
 
 <!-- Images -->
 
-<!-- ![visual studio code logo](8fadae061f1d8b6f1637e0caf26c783c.jpg "captain america logo") -->
+![visual studio code logo](8fadae061f1d8b6f1637e0caf26c783c.jpg "captain america logo")
 
 <!-- GITHUB MARKDOWN -->
 
