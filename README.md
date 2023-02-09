@@ -80,6 +80,6 @@ export default function App({ Component, pageProps }: AppProps) {
 <!-- GITHUB MARKDOWN -->
 
 - [x] task 1
-- [] task 2
-- [] task 3
+- [ ] task 2
+- [ ] task 3
 - [x] task 4
